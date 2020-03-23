@@ -1,4 +1,4 @@
-# Drew Tolliver
+# Fredrick Major
 ## Full-Stack Web Developer
 ### Portfolio
 
